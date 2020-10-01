@@ -1,3 +1,6 @@
 x=a,b,c,d,e,f,g=input("enter your numbers").split()
 for e in x:
+
+x=a,b,c,d,e,f,g=input("enter your numbers").split()
+for e in x:
     
